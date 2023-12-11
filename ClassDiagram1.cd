@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admins">
+    <Position X="3.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>Admins.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseWindow&lt;T&gt;">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAACAAAAAAAAAAEBAAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>BaseWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dataBaseofCombos" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dataBaseofCombos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dataBaseofMenu">
+    <Position X="9" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAAAAAAAAAAAAQAAAAABAAAAgAAAAAgA=</HashCode>
+      <FileName>dataBaseofMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dataBaseofUsers">
+    <Position X="5.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAAIAAAAAAAAEAAAAAAAEgAAEAA=</HashCode>
+      <FileName>dataBaseofUsers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderMonitor">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAABBAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OrderMonitor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderTerminal">
+    <Position X="8.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIABAAADAAAAAAAQgACAAAAQCAAAAJBAgAAAABAAAAw=</HashCode>
+      <FileName>OrderTerminal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderWorker">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAgBBAACAAAAAAAAhAAAAgAAAAgAAAAAQAJAAACA=</HashCode>
+      <FileName>OrderWorker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Workers">
+    <Position X="6.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAQAAEAAAAAAAAQAAAAAAAAEAAAIAAgAgAAEIA=</HashCode>
+      <FileName>Workers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="cords">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAABAYAA=</HashCode>
+      <FileName>OrderWorker.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
